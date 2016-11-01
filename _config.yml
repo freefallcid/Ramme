@@ -1,10 +1,10 @@
 # Site
-title:          Ramme
-bio:            'Just a simple Jekyll theme'
-description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
+title:          Klamm.io
+bio:            ''
+description:    "My personal website."
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            http://taylantatli.me/Ramme
+#url:            http://klamm.io
 
 # Jekyll
 permalink:      /:title/
@@ -22,9 +22,9 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-email: dominic@klamm.io
-twitter: freefallcid
-facebook: username
+email: contact@klamm.io?body=Please%20add%20the%20word%20'noblock'%20in%20the%20subject%20line!
+#twitter: freefallcid
+#facebook: username
 #google:
   #plus: #username
   #analytics:
@@ -41,9 +41,9 @@ github: freefallcid
 #tumblr: username
 #pinterest: username
 #foursquare: username
-steam: freefallcid
+#steam: STEAM_0:1:59668738
 #dribbble: username
-youtube: UC8OnWO2vi6BWW0L5lBDfT7Q
+#youtube: UC8OnWO2vi6BWW0L5lBDfT7Q
 #soundcloud: username
 #weibo: username
 #flickr: username
