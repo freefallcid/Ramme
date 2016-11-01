@@ -1,6 +1,6 @@
 # Site
 title:          Klamm.io
-bio:            ''
+bio:            'A personal weblog and notes archive of Dominic Reich'
 description:    "My personal website."
 picture:        'assets/img/Logo.png'
 locale:         en_US
@@ -23,7 +23,7 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 email: contact@klamm.io?body=Please%20add%20the%20word%20'noblock'%20in%20the%20subject%20line!
-#twitter: freefallcid
+twitter: freefallcid
 #facebook: username
 #google:
   #plus: #username
@@ -42,8 +42,9 @@ github: freefallcid
 #pinterest: username
 #foursquare: username
 #steam: STEAM_0:1:59668738
+steam: 76561198079603205
 #dribbble: username
-#youtube: UC8OnWO2vi6BWW0L5lBDfT7Q
+youtube: UC8OnWO2vi6BWW0L5lBDfT7Q
 #soundcloud: username
 #weibo: username
 #flickr: username
