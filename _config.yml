@@ -22,8 +22,8 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
-twitter: username
+email: dominic@klamm.io
+twitter: freefallcid
 facebook: username
 #google:
   #plus: #username
@@ -32,18 +32,18 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: freefallcid
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin: username
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+#instagram: username
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+steam: freefallcid
 #dribbble: username
-youtube: username
+youtube: UC8OnWO2vi6BWW0L5lBDfT7Q
 #soundcloud: username
 #weibo: username
 #flickr: username
@@ -51,8 +51,8 @@ youtube: username
 
 # Paginate
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # Gems
 gems:
@@ -67,3 +67,4 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+
