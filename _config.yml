@@ -7,7 +7,8 @@ locale:         en_US
 #url:            http://klamm.io
 
 # Jekyll
-permalink:      /:title/
+#permalink:      /:year/:month/:day/:title/
+permalink:      /:year/:month/:day/:slug/
 markdown:       kramdown
 highlighter:    rouge
 kramdown:
